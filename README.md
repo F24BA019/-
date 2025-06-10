@@ -6,3 +6,6 @@
 flutterstudioでCheckboxやラジオボタンを追加し、いろいろな機能を追加した。
 # 6月3日
 任意提出のDart入門プログラミング課題に挑戦した。
+# 6月4日
+Chapter4のSingleChildScrollViewまでいった。
+# 6月10日
